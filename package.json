@@ -1,21 +1,22 @@
 {
-  "name": "ip-tag",
+  "name": "mod-auth-cfg-password",
   "types": ["module"],
   "version": "1.4",
-  "homepage": "http://github.com/shinken-monitoring/mod-ip-tag",
+  "homepage": "https://github.com/shinken-monitoring/mod-auth-cfg-password",
   "author": "Jean Gabès",
-  "description": "Tag host by their IP ranges",
+  "description": "Shinken module for UI authentification from simple password for configuration file",
   "contributors": [
     {
       "name": "Jean Gabès",
       "email": "naparuba@gmail.com"
     }
   ],
-  "repository": "https://github.com/shinken-monitoring/mod-ip-tag",
+  "repository": "https://github.com/shinken-monitoring/mod-auth-cfg-password",
   "keywords": [
     "module",
-    "arbiter",
-    "ip"
+    "auth",
+    "authentification";
+    "webui"
   ],
   "dependencies": {
     "shinken": ">=1.4"
