@@ -1,5 +1,5 @@
 {
-  "name": "mod-auth-cfg-password",
+  "name": "auth-cfg-password",
   "types": ["module"],
   "version": "1.4",
   "homepage": "https://github.com/shinken-monitoring/mod-auth-cfg-password",
