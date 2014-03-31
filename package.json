@@ -16,6 +16,9 @@
     "module",
     "auth",
     "authentification";
+    "mod-auth-cfg-password",
+    "auth-cfg-password",
+    "cfg-password",
     "webui"
   ],
   "dependencies": {
