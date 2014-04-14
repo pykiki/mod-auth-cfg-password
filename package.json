@@ -1,7 +1,7 @@
 {
   "name": "auth-cfg-password",
   "types": ["module"],
-  "version": "1.4",
+  "version": "2.0",
   "homepage": "https://github.com/shinken-monitoring/mod-auth-cfg-password",
   "author": "Jean Gabès",
   "description": "Shinken module for UI authentification from simple password for configuration file",
@@ -15,14 +15,14 @@
   "keywords": [
     "module",
     "auth",
-    "authentification";
+    "authentification",
     "mod-auth-cfg-password",
     "auth-cfg-password",
     "cfg-password",
     "webui"
   ],
   "dependencies": {
-    "shinken": ">=1.4"
+    "shinken": ">=2.0"
   },
   "license": "AGPL"
 }
