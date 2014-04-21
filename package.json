@@ -4,7 +4,7 @@
   "version": "2.0",
   "homepage": "https://github.com/shinken-monitoring/mod-auth-cfg-password",
   "author": "Jean Gabès",
-  "description": "Shinken module for UI authentification from simple password for configuration file",
+  "description": "Shinken module for UI authentication from simple password for configuration file",
   "contributors": [
     {
       "name": "Jean Gabès",
@@ -15,7 +15,7 @@
   "keywords": [
     "module",
     "auth",
-    "authentification",
+    "authentication",
     "mod-auth-cfg-password",
     "auth-cfg-password",
     "cfg-password",
