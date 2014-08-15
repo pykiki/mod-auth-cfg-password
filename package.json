@@ -1,7 +1,7 @@
 {
   "name": "auth-cfg-password",
   "types": ["module"],
-  "version": "2.0",
+  "version": "2.0.1",
   "homepage": "https://github.com/shinken-monitoring/mod-auth-cfg-password",
   "author": "Jean Gabès",
   "description": "Shinken module for UI authentication from simple password for configuration file",
